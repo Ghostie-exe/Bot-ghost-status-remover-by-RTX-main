@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Playing Real Rust"];
+const statusMessages = ["“I’m gonna stomp your ass!”"];
 
 
 let currentIndex = 0;
